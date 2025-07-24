@@ -9,6 +9,7 @@ This is a simple JavaScript project that simulates a Todo List and filters the t
   - ✅ Completed Tasks
   - ⏳ Ongoing Tasks
 - Displays tasks in the console
+- 
 ✅ Done:
 1. Buy groceries
 2. Clean the room
